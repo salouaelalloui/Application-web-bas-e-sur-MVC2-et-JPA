@@ -1,1 +1,1 @@
-# Application-web-bas-e-sur-MVC2-et-JPA
+# Application-web-base-sur-MVC2-et-JPA
